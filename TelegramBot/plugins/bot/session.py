@@ -13,7 +13,7 @@ from pyrogram.types import (
     CallbackQuery,
 )
 
-from VoteBot import app
+from TelegramBot import app
 import config  # must contain LOG_GROUP_ID
 
 # --- Telethon for generating the .session file ---
