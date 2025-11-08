@@ -17,29 +17,29 @@ def help_pannel(START: Union[bool, int] = None):
     upl = InlineKeyboardMarkup(
         [
             [
-                InlineKeyboardButton(text="💰 ʙᴀʟᴀɴᴄᴇ", callback_data="help_callback hb1"),
-                InlineKeyboardButton(text="🛒 ʙᴜʏ ᴀᴄᴄᴏᴜɴᴛ", callback_data="help_callback hb2"),
-                InlineKeyboardButton(text="💳 ʀᴇᴄʜᴀʀɢᴇ", callback_data="help_callback hb3"),
+                InlineKeyboardButton(text="xxx", callback_data="help_callback hb1"),
+                InlineKeyboardButton(text="xx", callback_data="help_callback hb2"),
+                InlineKeyboardButton(text="xx", callback_data="help_callback hb3"),
             ],
             [
-                InlineKeyboardButton(text="🎁 ʀᴇᴅᴇᴇᴍ", callback_data="help_callback hb4"),
+                InlineKeyboardButton(text="ʙᴜʏ ᴀᴄᴄᴏᴜɴᴛ ", callback_data="help_callback hb4"),
                 InlineKeyboardButton(text="🥂 ʀᴇꜰᴇʀ & ᴇᴀʀɴ", callback_data="help_callback hb5"),
-                InlineKeyboardButton(text="ᴘʀᴏғɪʟᴇ", callback_data="help_callback hb6"),
+                InlineKeyboardButton(text="ᴡᴀʟʟᴇᴛ", callback_data="help_callback hb6"),
             ],
             [
-                InlineKeyboardButton(text="ᴛᴏᴘ- sᴇʟʟɪɴɢ", callback_data="help_callback hb7"),
-                InlineKeyboardButton(text="ᴘʀɪᴍɪᴜᴍ ᴀᴄᴄᴏᴜɴᴛ", callback_data="help_callback hb8"),
-                InlineKeyboardButton(text="sᴛᴏʀʏ ғᴇᴀᴛᴜʀᴇ", callback_data="help_callback hb9"),
+                InlineKeyboardButton(text="ʀᴇᴅᴇᴇᴍ ᴄᴏᴅᴇ", callback_data="help_callback hb7"),
+                InlineKeyboardButton(text="ᴅᴇᴘᴏsɪᴛᴇ ᴍᴏɴᴇʏ", callback_data="help_callback hb8"),
+                InlineKeyboardButton(text="xx", callback_data="help_callback hb9"),
             ],
             [
-                InlineKeyboardButton(text="ʀᴇᴄʜᴀʀɢᴇ sᴛᴀᴛᴜs", callback_data="help_callback hb10"),
-                InlineKeyboardButton(text="ʙᴜʟᴋ ʙᴜʏ", callback_data="help_callback hb11"),
-                InlineKeyboardButton(text="ᴍʏ ʀᴇғᴇʀᴀʟs", callback_data="help_callback hb12"),
+                InlineKeyboardButton(text="xx", callback_data="help_callback hb10"),
+                InlineKeyboardButton(text="xx", callback_data="help_callback hb11"),
+                InlineKeyboardButton(text="xx", callback_data="help_callback hb12"),
             ],
             [
-                InlineKeyboardButton(text="ᴅɪsᴄᴏᴜɴᴛ", callback_data="help_callback hb13"),
-                InlineKeyboardButton(text="ʜᴇɪɢʜ ᴘʀɪᴄᴇ ᴀᴄ", callback_data="help_callback hb14"),
-                InlineKeyboardButton(text="ʟᴏᴡ ᴘʀɪᴄᴇ ᴀᴄ", callback_data="help_callback hb15"),
+                InlineKeyboardButton(text="xx", callback_data="help_callback hb13"),
+                InlineKeyboardButton(text="xx", callback_data="help_callback hb14"),
+                InlineKeyboardButton(text="xx", callback_data="help_callback hb15"),
             ],
             mark,
         ]
