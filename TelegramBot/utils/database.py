@@ -2,8 +2,8 @@ import asyncio
 from datetime import datetime
 from typing import Dict, List, Union, Optional
 
-from VoteBot import app, LOGGER
-from VoteBot.core.mongo import mongodb
+from TelegramBot import app, LOGGER
+from TelegramBot.core.mongo import mongodb
 
 # =====================================================
 # USERS DATABASE
